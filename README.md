@@ -1,1 +1,1 @@
-# Helicopter-animation-using-C-
+this is a animation of moving helicopter created by using graphic.h header file.
